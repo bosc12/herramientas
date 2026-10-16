@@ -1,11 +1,12 @@
 # Herramientas — descargas
 
-Ejecutables listos para usar en Windows. No requieren instalación ni permisos de administrador: se descarga el `.exe` y se abre.
+Ejecutables listos para usar en Windows (no requieren instalación ni permisos de administrador: se descarga el `.exe` y se abre) y la app de Fe de Vida para tablets Android.
 
 | Herramienta | Descargar la última versión | Todas las versiones |
 |---|---|---|
 | **Tiempo de trámite — Largo plazo (IVM)**<br>Reemplaza el libro «TIEMPO DE TRAMITE DE LARGO PLAZO». | [⬇ TiempoTramite.exe](https://github.com/bosc12/herramientas/releases/download/TiempoTramite-ultima/TiempoTramite.exe) | [Versiones](https://github.com/bosc12/herramientas/releases?q=TiempoTramite&expanded=true) |
 | **Calculadora de prestaciones e incrementos excesivos**<br>Reemplaza el libro 100152.xlsm. | [⬇ RevisionIncrementos.exe](https://github.com/bosc12/herramientas/releases/download/CalculoPension-ultima/RevisionIncrementos.exe) | [Versiones](https://github.com/bosc12/herramientas/releases?q=CalculoPension&expanded=true) |
+| **Fe de Vida (tablets Android)**<br>App de captura de la fe de vida de jubilados y pensionados. Necesita el servidor Fe de Vida en la PC de campo. | [⬇ FeDeVida.apk](https://github.com/bosc12/herramientas/releases/download/FeDeVida-ultima/FeDeVida.apk) | [Versiones](https://github.com/bosc12/herramientas/releases?q=FeDeVida&expanded=true) |
 
 Los enlaces de **Descargar la última versión** no cambian: siempre bajan la versión más reciente.
 
@@ -14,7 +15,13 @@ Los enlaces de **Descargar la última versión** no cambian: siempre bajan la ve
 2. Haga doble clic para abrirlo.
 3. Windows puede mostrar **«Windows protegió su PC»**, porque el programa no está firmado digitalmente. Se abre con **Más información → Ejecutar de todas formas**. Esto solo pasa la primera vez.
 
-## Actualizar a una versión nueva
+## Fe de Vida en la tablet
+1. Desde la tablet, abra el enlace **⬇ FeDeVida.apk** y descárguelo.
+2. Ábralo desde la notificación de descarga o desde **Archivos → Descargas**.
+3. Android puede pedir permiso para **instalar apps de origen desconocido**: permítalo para el navegador o la app de archivos y vuelva atrás para instalar.
+4. Para actualizar, instale el APK nuevo encima del anterior: la vinculación con el servidor y los usuarios se conservan.
+
+## Actualizar a una versión nueva (Windows)
 1. Cierre el programa. En *Tiempo de trámite* se usa el botón **Cerrar sistema**.
 2. *(Recomendado en Tiempo de trámite)*: descargue un respaldo en **Respaldo y compartir → Descargar base**.
 3. Descargue el `.exe` nuevo y reemplace el anterior.

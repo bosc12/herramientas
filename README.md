@@ -25,7 +25,7 @@ Los enlaces de **Descargar la última versión** no cambian: siempre bajan la ve
 
 ## Actualizar a una versión nueva (Windows)
 1. Cierre el programa. En *Tiempo de trámite*, *Control de expedientes* y *Pensionados fallecidos* se usa el botón **Cerrar sistema**.
-2. *(Recomendado)*: descargue un respaldo (*Tiempo de trámite* y *Pensionados fallecidos*: **Respaldo y compartir → Descargar base**; *Control de expedientes*: **Respaldo → Descargar respaldo**).
+2. *(Recomendado)*: descargue un respaldo (*Tiempo de trámite*: **Respaldo y compartir → Descargar base**; *Pensionados fallecidos*: **Respaldo → Descargar base**; *Control de expedientes*: **Respaldo → Descargar respaldo**).
 3. Descargue el `.exe` nuevo y reemplace el anterior.
 4. Ábralo. Los datos se conservan, porque se guardan aparte del programa, en la carpeta del usuario.
 

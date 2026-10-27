@@ -5,6 +5,7 @@ Ejecutables listos para usar en Windows (no requieren instalación ni permisos d
 | Herramienta | Descargar la última versión | Todas las versiones |
 |---|---|---|
 | **Tiempo de trámite — Largo plazo (IVM)**<br>Reemplaza el libro «TIEMPO DE TRAMITE DE LARGO PLAZO». | [⬇ TiempoTramite.exe](https://github.com/bosc12/herramientas/releases/download/TiempoTramite-ultima/TiempoTramite.exe) | [Versiones](https://github.com/bosc12/herramientas/releases?q=TiempoTramite&expanded=true) |
+| **Pensionados fallecidos — Pagos de más**<br>Reemplaza los libros de «CUENTAS POR COBRAR PAGO DE PENSIONES». Cruza el listado de defunciones del Tribunal Electoral con la planilla, calcula los pagos de más por quincena y registra las retenciones. Varias personas trabajan sobre la misma base central. | [⬇ PensionadosFallecidos.exe](https://github.com/bosc12/herramientas/releases/download/PensionadosFallecidos-ultima/PensionadosFallecidos.exe) | [Versiones](https://github.com/bosc12/herramientas/releases?q=PensionadosFallecidos&expanded=true) |
 | **Control de expedientes (DENPE)**<br>Carga la descarga del mainframe de cualquier departamento (o el libro «CUADRO FINAL - FONDO COMPLEMENTARIO 861»). Quién tiene cada expediente, tiempos y cuellos de botella. | [⬇ ControlExpedientes.exe](https://github.com/bosc12/herramientas/releases/download/ControlExpedientes-ultima/ControlExpedientes.exe) | [Versiones](https://github.com/bosc12/herramientas/releases?q=ControlExpedientes&expanded=true) |
 | **Calculadora de prestaciones e incrementos excesivos**<br>Reemplaza el libro 100152.xlsm. | [⬇ RevisionIncrementos.exe](https://github.com/bosc12/herramientas/releases/download/CalculoPension-ultima/RevisionIncrementos.exe) | [Versiones](https://github.com/bosc12/herramientas/releases?q=CalculoPension&expanded=true) |
 | **Fe de Vida (tablets Android)**<br>App de captura de la fe de vida de jubilados y pensionados. Necesita el servidor Fe de Vida en la PC de campo. | [⬇ FeDeVida.apk](https://github.com/bosc12/herramientas/releases/download/FeDeVida-ultima/FeDeVida.apk) | [Versiones](https://github.com/bosc12/herramientas/releases?q=FeDeVida&expanded=true) |
@@ -23,8 +24,8 @@ Los enlaces de **Descargar la última versión** no cambian: siempre bajan la ve
 4. Para actualizar, instale el APK nuevo encima del anterior: la vinculación con el servidor y los usuarios se conservan.
 
 ## Actualizar a una versión nueva (Windows)
-1. Cierre el programa. En *Tiempo de trámite* y *Control de expedientes* se usa el botón **Cerrar sistema**.
-2. *(Recomendado)*: descargue un respaldo (*Tiempo de trámite*: **Respaldo y compartir → Descargar base**; *Control de expedientes*: **Respaldo → Descargar respaldo**).
+1. Cierre el programa. En *Tiempo de trámite*, *Control de expedientes* y *Pensionados fallecidos* se usa el botón **Cerrar sistema**.
+2. *(Recomendado)*: descargue un respaldo (*Tiempo de trámite* y *Pensionados fallecidos*: **Respaldo y compartir → Descargar base**; *Control de expedientes*: **Respaldo → Descargar respaldo**).
 3. Descargue el `.exe` nuevo y reemplace el anterior.
 4. Ábralo. Los datos se conservan, porque se guardan aparte del programa, en la carpeta del usuario.
 
